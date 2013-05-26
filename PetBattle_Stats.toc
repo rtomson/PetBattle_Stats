@@ -1,0 +1,11 @@
+## Interface: 50300
+## Title: PetBattle Stats
+## Notes: Statistics for your pet battles.
+## Author: Windrunner-US:Integer
+## Version: Alpha
+## SavedVariables: PetBattleStatsDB
+## Dependencies: Blizzard_PetJournal
+## X-Website: https://github.com/rtomson/PetBattle_Stats
+
+Localization.lua
+PetBattle_Stats.xml
